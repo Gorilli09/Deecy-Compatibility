@@ -2,7 +2,9 @@
 	{
 		"game": "18 Wheeler: American Pro Trucker",
 		"tags": [],
-		"linked_issues": [209],
+		"linked_issues": [
+			209
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -16,7 +18,9 @@
 	{
 		"game": "21 - Two One",
 		"tags": [],
-		"linked_issues": [214],
+		"linked_issues": [
+			214
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -43,7 +47,9 @@
 		"tags": [
 			"WinCE"
 		],
-		"linked_issues": [202],
+		"linked_issues": [
+			202
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -228,7 +234,9 @@
 		"tags": [
 			"WinCE"
 		],
-		"linked_issues": [203],
+		"linked_issues": [
+			203
+		],
 		"status_reports": [
 			{
 				"commit": "99639ec2b66714a97ef0ffa19a35370d0e5838c9",
@@ -726,7 +734,9 @@
 	{
 		"game": "Doricatch Series: Celsior",
 		"tags": [],
-		"linked_issues": [201],
+		"linked_issues": [
+			201
+		],
 		"status_reports": [
 			{
 				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
@@ -739,7 +749,9 @@
 	{
 		"game": "Doricatch Series: Hilux Surf",
 		"tags": [],
-		"linked_issues": [201],
+		"linked_issues": [
+			201
+		],
 		"status_reports": [
 			{
 				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
@@ -871,7 +883,9 @@
 	{
 		"game": "Fur Fighters",
 		"tags": [],
-		"linked_issues": [217],
+		"linked_issues": [
+			217
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -1066,6 +1080,20 @@
 		]
 	},
 	{
+		"game": "Illbleed",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.1",
+				"commit": "579d415",
+				"game_version": "T46001N   V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Jet Set Radio",
 		"tags": [],
 		"linked_issues": [
@@ -1112,7 +1140,9 @@
 		"tags": [
 			"WinCE"
 		],
-		"linked_issues": [218],
+		"linked_issues": [
+			218
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -1128,7 +1158,9 @@
 		"tags": [
 			"WinCE"
 		],
-		"linked_issues": [204],
+		"linked_issues": [
+			204
+		],
 		"status_reports": [
 			{
 				"commit": "99639ec2b66714a97ef0ffa19a35370d0e5838c9",
@@ -1166,7 +1198,9 @@
 	{
 		"game": "Le Mans 24 Hours",
 		"tags": [],
-		"linked_issues": [211],
+		"linked_issues": [
+			211
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -1367,7 +1401,9 @@
 	{
 		"game": "NFL Blitz 2000",
 		"tags": [],
-		"linked_issues": [210],
+		"linked_issues": [
+			210
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -1642,9 +1678,25 @@
 		]
 	},
 	{
+		"game": "Rippin' Riders",
+		"tags": [],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"version": "0.6.1",
+				"commit": "579d415",
+				"game_version": "MK-51010  V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Roadsters",
 		"tags": [],
-		"linked_issues": [219],
+		"linked_issues": [
+			219
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -1754,7 +1806,9 @@
 	{
 		"game": "Shikigami no Shiro II",
 		"tags": [],
-		"linked_issues": [215],
+		"linked_issues": [
+			215
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -1768,7 +1822,9 @@
 	{
 		"game": "Skies of Arcadia",
 		"tags": [],
-		"linked_issues": [223],
+		"linked_issues": [
+			223
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -2247,7 +2303,9 @@
 	{
 		"game": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
 		"tags": [],
-		"linked_issues": [220],
+		"linked_issues": [
+			220
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -2304,7 +2362,9 @@
 	{
 		"game": "Vanishing Point",
 		"tags": [],
-		"linked_issues": [213],
+		"linked_issues": [
+			213
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
@@ -2384,7 +2444,9 @@
 			"WinCE",
 			"No VGA"
 		],
-		"linked_issues": [205],
+		"linked_issues": [
+			205
+		],
 		"status_reports": [
 			{
 				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
@@ -2401,7 +2463,9 @@
 	{
 		"game": "World Series Baseball 2K1",
 		"tags": [],
-		"linked_issues": [212],
+		"linked_issues": [
+			212
+		],
 		"status_reports": [
 			{
 				"version": "0.6.0+",
