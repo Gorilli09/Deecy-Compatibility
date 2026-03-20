@@ -72,6 +72,58 @@
 		]
 	},
 	{
+		"game": "Advanced Daisenryaku - Sturm ueber Europa - Der Deutsche Blitzkrieg",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "HDR-0066 V1.013",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Advanced Daisenryaku 2001",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "HDR-0158 V1.008",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Aero Dancing F",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T6805M V2.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Aero Dancing Todoroki Taichou no Himitsu Disc",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T6803M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "AeroWings",
 		"tags": [],
 		"linked_issues": [
@@ -653,6 +705,19 @@
 		]
 	},
 	{
+		"game": "Conflict Zone",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T17721N V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Crazy Taxi",
 		"tags": [],
 		"status_reports": [
@@ -690,6 +755,19 @@
 		]
 	},
 	{
+		"game": "Cyber Troopers Virtual-On: Oratorio Tangram",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T13004N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "D+Vine [Luv]",
 		"tags": [],
 		"status_reports": [
@@ -697,6 +775,19 @@
 				"version": "0.6.0+",
 				"commit": "855f5a8216e9c0f25d3826a068c2024564ea751c",
 				"game_version": "T46501M V1.002",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Daytona USA",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "MK-51037 V1.004",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -841,6 +932,22 @@
 		]
 	},
 	{
+		"game": "ESPN NBA 2Night",
+		"tags": [],
+		"linked_issues": [
+			238
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T9505N V1.005",
+				"status": "In Game",
+				"notes": "Issue #238: Wrong shading on the floor."
+			}
+		]
+	},
+	{
 		"game": "F355 Challenge - Passione Rossa",
 		"tags": [],
 		"linked_issues": [
@@ -905,6 +1012,19 @@
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"game_version": "T3108M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Gauntlet Legends",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T9710N V1.003",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -1232,6 +1352,19 @@
 		]
 	},
 	{
+		"game": "Looney Tunes: Space Race",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T15116N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Love Hina 2",
 		"tags": [],
 		"status_reports": [
@@ -1387,6 +1520,19 @@
 		]
 	},
 	{
+		"game": "Ms. Pac-Man: Maze Madness",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T1404N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Net Versus Gomoku Narabe to Renju",
 		"tags": [],
 		"status_reports": [
@@ -1411,6 +1557,21 @@
 				"game_version": "T-9703N V2.000",
 				"status": "Playable",
 				"notes": "Issue #210: V1.002 does not boot. https://github.com/Senryoku/Deecy/issues/210"
+			}
+		]
+	},
+	{
+		"game": "Nightmare Creatures II",
+		"tags": [
+			"WinCE"
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T9504M V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
 			}
 		]
 	},
@@ -1678,6 +1839,22 @@
 		]
 	},
 	{
+		"game": "Resident Evil 3: Nemesis",
+		"tags": [],
+		"linked_issues": [
+			239
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T1220N V1.000",
+				"status": "In Game",
+				"notes": "Issue #239: Textures/background render black."
+			}
+		]
+	},
+	{
 		"game": "Rippin' Riders",
 		"tags": [],
 		"linked_issues": [],
@@ -1820,6 +1997,32 @@
 		]
 	},
 	{
+		"game": "Silent Scope",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T9507N V1.000",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Silver",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T15108N V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
 		"game": "Skies of Arcadia",
 		"tags": [],
 		"linked_issues": [
@@ -1939,6 +2142,19 @@
 		"status_reports": [
 			{
 				"commit": "e563dbb",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Star Wars Episode I: Racer",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T23002N V1.004",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -2242,12 +2458,54 @@
 		]
 	},
 	{
+		"game": "Tokyo Highway Challenge",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T40201D_50 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Tokyo Highway Challenge 2",
+		"tags": [],
+		"linked_issues": [
+			240
+		],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T40210D_50 V1.001",
+				"status": "In Game",
+				"notes": "Issue #240: In-game graphics glitch creates a wall in front of the car."
+			}
+		]
+	},
+	{
 		"game": "Tokyo Xtreme Racer",
 		"tags": [],
 		"status_reports": [
 			{
 				"commit": "87ac11e3380ee81db8c25b372b00bfbb7c6dc8a8",
 				"game_version": "T40201D_50 V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Tony Hawk's Pro Skater",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T40205N V1.000",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
@@ -2340,6 +2598,19 @@
 				"version": "0.6.0+",
 				"commit": "fcf0be75ded39361c1b8aa731c5020145f71ca86",
 				"game_version": "T46705M V1.001",
+				"status": "Playable",
+				"notes": "No known issue."
+			}
+		]
+	},
+	{
+		"game": "Unreal Tournament",
+		"tags": [],
+		"status_reports": [
+			{
+				"version": "0.6.0+",
+				"commit": "d201275675f3c2056fd9206357286a84499efa63",
+				"game_version": "T15125N V1.000",
 				"status": "Playable",
 				"notes": "No known issue."
 			}
