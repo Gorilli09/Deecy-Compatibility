@@ -361,7 +361,7 @@
 		]
 	},
 	{
-		"game": "Bangai-O",
+		"game": "Bangai-O / Bakuretsu Muteki Bangaioh",
 		"tags": [],
 		"status_reports": [
 			{
@@ -1450,7 +1450,7 @@
 		]
 	},
 	{
-		"game": "Jet Set Radio",
+		"game": "Jet Set Radio / De La Jet Set Radio",
 		"tags": [],
 		"linked_issues": [
 			95
@@ -1764,7 +1764,7 @@
 		]
 	},
 	{
-		"game": "Monaco Grand Prix",
+		"game": "Monaco Grand Prix / Monaco Grand Prix Racing Simulation 2",
 		"tags": [],
 		"linked_issues": [],
 		"status_reports": [
@@ -2218,7 +2218,7 @@
 		]
 	},
 	{
-		"game": "Resident Evil - Code Veronica",
+		"game": "Resident Evil - Code Veronica / Biohazard - Code Veronica",
 		"tags": [],
 		"status_reports": [
 			{
@@ -2229,7 +2229,7 @@
 		]
 	},
 	{
-		"game": "Resident Evil 2",
+		"game": "Resident Evil 2 / Biohazard 2",
 		"tags": [
 			"WinCE"
 		],
@@ -2310,7 +2310,7 @@
 		]
 	},
 	{
-		"game": "Romance of the Three Kingdoms VI: Awakening of the Dragon",
+		"game": "Romance of the Three Kingdoms VI / Sangokushi VI",
 		"tags": [],
 		"status_reports": [
 			{
@@ -2670,7 +2670,7 @@
 		]
 	},
 	{
-		"game": "Street Fighter Alpha 3",
+		"game": "Street Fighter Alpha 3 / Street Fighter Zero 3",
 		"tags": [],
 		"linked_issues": [],
 		"status_reports": [
@@ -2684,7 +2684,7 @@
 		]
 	},
 	{
-		"game": "Street Fighter III: 2nd Impact",
+		"game": "Street Fighter III: 2nd Impact / Street Fighter III: W Impact",
 		"tags": [],
 		"linked_issues": [],
 		"status_reports": [
@@ -2698,7 +2698,7 @@
 		]
 	},
 	{
-		"game": "Street Fighter III: 3rd Strike",
+		"game": "Street Fighter III: 3rd Strike - Fight for the Future",
 		"tags": [],
 		"linked_issues": [],
 		"status_reports": [
@@ -2727,7 +2727,7 @@
 		]
 	},
 	{
-		"game": "Super Puzzle Fighter II X for Matching Service",
+		"game": "Super Puzzle Fighter II Turbo / Super Puzzle Fighter II X",
 		"tags": [],
 		"linked_issues": [
 			165
@@ -2743,7 +2743,7 @@
 		]
 	},
 	{
-		"game": "Super Robot Wars Alpha",
+		"game": "Super Robot Wars Alpha / Super Robot Taisen Alpha",
 		"tags": [
 			"WinCE"
 		],
@@ -2762,7 +2762,7 @@
 		]
 	},
 	{
-		"game": "Super Street Fighter II X for Matching Service",
+		"game": "Super Street Fighter II Turbo / Super Street Fighter II X",
 		"tags": [],
 		"linked_issues": [],
 		"status_reports": [
@@ -2826,7 +2826,7 @@
 		]
 	},
 	{
-		"game": "Tech Romancer (Kikaioh) for Matching Service",
+		"game": "Tech Romancer / Kikaioh",
 		"tags": [],
 		"linked_issues": [],
 		"status_reports": [
@@ -2948,7 +2948,7 @@
 		]
 	},
 	{
-		"game": "The Last Blade 2",
+		"game": "The Last Blade 2 / Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition",
 		"tags": [],
 		"linked_issues": [],
 		"status_reports": [
@@ -3022,7 +3022,7 @@
 		]
 	},
 	{
-		"game": "Tokyo Xtreme Racer",
+		"game": "Tokyo Xtreme Racer / Shutokou Battle / Tokyo Highway Challenge",
 		"tags": [],
 		"status_reports": [
 			{
