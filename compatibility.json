@@ -1528,6 +1528,21 @@
 		]
 	},
 	{
+		"game": "Half-Life",
+		"tags": [
+			"Prototype"
+		],
+		"linked_issues": [],
+		"status_reports": [
+			{
+				"commit": "???",
+				"game_version": "MK-51035 V1.004",
+				"status": "In Game",
+				"notes": "Crashes when loading certain maps."
+			}
+		]
+	},
+	{
 		"game": "Happy Lesson",
 		"tags": [
 			"WinCE"
