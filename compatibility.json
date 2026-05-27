@@ -1535,7 +1535,7 @@
 		"linked_issues": [],
 		"status_reports": [
 			{
-				"commit": "373abe0",
+				"commit": "67a3c1a",
 				"game_version": "MK-51035 V1.004",
 				"status": "In Game",
 				"notes": "Crashes when loading certain maps."
